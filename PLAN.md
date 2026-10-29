@@ -12,7 +12,7 @@ The goal:
 
 **Target:** GNOME Shell 50 and 51 (installed here: 51.0). The extension uses ESM and `"shell-version": ["50", "51"]`.
 
-**Location:** `/home/svashtar/projects/development/lightsbuddy-gnome`
+**Location:** `/home/svashtar/projects/development/GNOME/lightsbuddy-gnome`
 
 ## Key design decisions, and where they differ from lightsbuddy
 
