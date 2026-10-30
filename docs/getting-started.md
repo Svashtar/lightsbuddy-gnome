@@ -1,3 +1,5 @@
+<img src="../src/icons/lightsbuddy.svg" alt="" width="48" align="right">
+
 # Getting started
 
 This guide takes you from a fresh install to lights in your top bar or Quick Settings. It takes about five minutes, most of which is waiting for Govee's API key email.

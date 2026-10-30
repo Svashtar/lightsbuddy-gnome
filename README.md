@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/icons/lightsbuddy.svg" alt="LightsBuddy logo" width="96">
+</p>
+
 # LightsBuddy
 
 **Control your Govee lights from the GNOME top bar or Quick Settings: instantly over your local network, with the Govee cloud as a fallback.**
@@ -154,3 +158,15 @@ LightsBuddy is free software, released under the [GNU General Public License, ve
 ## Disclaimer
 
 Not affiliated with or endorsed by Govee. Govee is a trademark of its owner. This extension uses Govee's public developer API and LAN protocol.
+
+---
+
+<p align="center">
+  <a href="https://svashta.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="docs/assets/svashta-wordmark-light.svg">
+      <img src="docs/assets/svashta-wordmark-dark.svg" alt="Svashta" height="24">
+    </picture>
+  </a>
+  <br><sub>Made by <a href="https://svashta.com">Svashta</a></sub>
+</p>
